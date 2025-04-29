@@ -34,10 +34,8 @@ b — regression vector
 W, P, q, T — standard PLS model matrices
 
 ---
-
-**## 📄 License**
+📄 License
 This project is licensed under the
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-See LICENSE or https://creativecommons.org/licenses/by-nc/4.0
+See the LICENSE file or https://creativecommons.org/licenses/by-nc/4.0
 
----
