@@ -24,15 +24,29 @@ https://doi.org/10.1016/j.aca.2021.339073
 [b, W, P, q, T] = pls_cons(X, y, LV, Sk);
 ```
 
-Inputs:
-X — n × p matrix of mean-centered predictors
-y — n × 1 mean-centered response vector
-LV — number of latent variables to extract
-Sk — p × k matrix of known interfering signals
+**Inputs:**
+- `X` — n × p matrix of mean-centered predictors  
+- `y` — n × 1 mean-centered response vector  
+- `LV` — number of latent variables to extract  
+- `Sk` — p × k matrix of known interfering signals  
 
-Outputs:
-b — regression vector
-W, P, q, T — standard PLS model matrices
+**Outputs:**
+- `b` — regression vector  
+- `W`, `P`, `q`, `T` — standard PLS model matrices  
+This will render nicely as a proper list — each line spaced and formatted, just like you'd expect in scientific documentation.
+
+📌 Just replace your current Inputs/Outputs section with the block above in your README and you’re all set!
+
+Want me to send the full README block again with this included?
+
+
+
+
+
+
+
+
+
 
 ---
 📄 License
