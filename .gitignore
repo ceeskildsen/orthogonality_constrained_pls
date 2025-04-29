@@ -1,0 +1,16 @@
+# MATLAB temporary and backup files
+*.asv
+*.autosave
+
+# Compiled MEX binaries
+*.mex*
+*.dll
+*.so
+*.dylib
+
+# Hidden files
+.DS_Store
+Thumbs.db
+
+# MATLAB live editor temp files
+*.mlx~
