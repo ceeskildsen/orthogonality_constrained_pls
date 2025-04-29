@@ -22,6 +22,7 @@ https://doi.org/10.1016/j.aca.2021.339073
 
 ```matlab
 [b, W, P, q, T] = pls_cons(X, y, LV, Sk);
+```
 
 Inputs:
 X — n × p matrix of mean-centered predictors
