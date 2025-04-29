@@ -12,14 +12,14 @@ Call the function as follows in MATLAB:
 ```
 
 ## Inputs
-X is an n×p matrix of mean-centered predictor data
-y is an n×1 vector of mean-centered response values
-LV is the number of latent variables to extract
-Sk is a p×k matrix of known interfering signals
+-`X` is an n×p matrix of mean-centered predictor data  
+-`y` is an n×1 vector of mean-centered response values  
+-`LV` is the number of latent variables to extract  
+-`Sk` is a p×k matrix of known interfering signals  
 
 ## Outputs
-b is the regression vector
-W, P, q and T are the standard PLS model matrices (weights, loadings and scores)
+-`b` is the regression vector  
+-`W`, `P`, `q` and `T` are the standard PLS model matrices (weights, loadings and scores)  
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International
